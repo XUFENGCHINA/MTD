@@ -157,4 +157,4 @@ java --add-modules jdk.httpserver -cp out TestDownloader
 
 ## 📄 License
 
-本项目基于 [MIT License](LICENSE) 开源，可自由使用、修改、分发。
+本项目基于 GPL3.0 开源，遵守即可正常修改和分发。
